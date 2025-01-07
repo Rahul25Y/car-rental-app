@@ -25,7 +25,7 @@ export default function Hero({ theme }) {
           <div className="space-y-5 order-2 sm:order-1 sm:pr-32 ">
             <p data-aos="fade-up" className="text-primary text-2xl font-serif">
               {" "}
-              Effortless
+              Effortless.
             </p>
             <h1
               data-aos="fade-up"
